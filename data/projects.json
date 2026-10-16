@@ -18266,6 +18266,16 @@
       "language": "TypeScript",
       "stars": 0,
       "added": "2026-10-16"
+    },
+    {
+      "name": "Atoma",
+      "repo": "atoma-run/atoma",
+      "site": "https://atoma.run",
+      "description": "Open-source framework that orchestrates three tiers of LLM agents to plan, build, and verify software from a goal, with Jev picking the agent or recipe, approving plans and results, and setting execution effort.",
+      "category": "agents",
+      "language": "TypeScript",
+      "stars": 20,
+      "added": "2026-10-16"
     }
   ]
 }
