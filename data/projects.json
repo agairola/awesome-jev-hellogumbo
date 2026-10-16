@@ -18226,6 +18226,16 @@
       "language": "Python",
       "stars": 0,
       "added": "2026-10-16"
+    },
+    {
+      "name": "two-bots-one-brain",
+      "repo": "suranjaychandra/two-bots-one-brain",
+      "site": null,
+      "description": "A browser game where two NPC bots share one brain (Jev) and the same rules: one sends its raw game state, the other sends it through jev-state, and a live meter counts each bot's wrong decisions by the rules.",
+      "category": "games",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-10-16"
     }
   ]
 }
